@@ -12,8 +12,13 @@
 - setup nextcloud (if i can)
 # lists
 ## *rr
-- sonarr, radarr, bazarr, prowlarr, requestrr.
+- sonarr
+- radarr
+- bazarr
+- prowlarr
+- requestrr
 ## jellyfin
-- jellyfin, jellyseerr, 
+- jellyfin
+- jellyseerr 
 ## random 
-- pi-hole
+- pi-hole (if i can with a dynamic ip)
