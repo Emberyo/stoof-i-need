@@ -1,7 +1,7 @@
 # stoof-i-need
 ## vs-code extentions
 - Auto Close Tag
-- Git Extension Pack - GitLens
+- Git Extension Pack no GitLens
 - Docker + Container Tools
 - Live Server
 - Prettier
