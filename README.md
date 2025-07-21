@@ -1,10 +1,13 @@
 # stoof-i-need
-## vs-code extentions
+## app extentions
+### vs code
 - Auto Close Tag
 - Git Extension Pack no GitLens
 - Docker + Container Tools
 - Live Server
 - Prettier
+### anki
+-
 # stoof-i-need-to-do
 ## media server
 - setup the *rr stack (sonarr, radarr, prowlarr, requestrr, etc)
