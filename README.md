@@ -1,27 +1,6 @@
 # stoof-i-need
-## app extentions
-### vs code
-- Auto Close Tag
-- Git Extension Pack no GitLens
-- Docker + Container Tools
-- Live Server
-- Prettier
-### anki
--
+app extentions.md
 # stoof-i-need-to-do
-## media server
-- setup the *rr stack (sonarr, radarr, prowlarr, requestrr, etc)
-- setup jellyfin (maybe shoko)
-- setup nextcloud (if i can)
-# lists
-## *rr
-- sonarr
-- radarr
-- bazarr
-- prowlarr
-- requestrr
-## jellyfin
-- jellyfin
-- jellyseerr 
+media server.md
 ## random 
 - pi-hole (if i can with a dynamic ip)
