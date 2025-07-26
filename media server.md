@@ -1,7 +1,3 @@
-# ⚠️ if you use these tools for piracy i nor the tools below will give you support relating to piracy ⚠️
-
-
-
 # media server
 - setup the *rr stack (sonarr, radarr, prowlarr, requestrr, etc)
 - setup jellyfin (maybe shoko)
