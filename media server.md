@@ -11,3 +11,5 @@
 ## jellyfin
 - jellyfin
 - jellyseerr 
+
+# ⚠️ dont use these tools for piracy (or do im not your mom)⚠️
