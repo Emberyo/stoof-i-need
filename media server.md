@@ -1,4 +1,4 @@
-# ⚠️ if you use these tools for piracy i nor the tools below will give you support relating to the pirated content support ⚠️
+# ⚠️ if you use these tools for piracy i nor the tools below will give you support relating to piracy ⚠️
 
 
 
