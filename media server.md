@@ -1,4 +1,4 @@
-# ⚠️ may be piracy in your country be careful ⚠️
+# ⚠️ if you use these tools for piracy i nor the tools below will give you support relating to the pirated content support ⚠️
 
 
 
@@ -7,11 +7,11 @@
 - setup jellyfin (maybe shoko)
 # lists
 ## *rr
-- sonarr
-- radarr
-- bazarr
-- prowlarr
-- requestrr
+- [sonarr](https://github.com/Sonarr/Sonarr)
+- [radarr](https://github.com/Radarr/Radarr)
+- [bazarr](https://github.com/morpheus65535/bazarr)
+- [prowlarr](https://github.com/Prowlarr/Prowlarr)
+- [requestrr](https://github.com/thomst08/requestrr)
 ## jellyfin
 - jellyfin
 - jellyseerr 
