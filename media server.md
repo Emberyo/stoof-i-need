@@ -9,7 +9,8 @@
 - [prowlarr](https://github.com/Prowlarr/Prowlarr)
 - [requestrr](https://github.com/thomst08/requestrr)
 ## jellyfin
-- jellyfin
-- jellyseerr 
+- [jellyfin](https://jellyfin.org)
+- jellyseerr
+- [shoko](https://shokoanime.com/) (if i wanna)
 
 # ⚠️ dont use these tools for piracy (or do im not your mom)⚠️
