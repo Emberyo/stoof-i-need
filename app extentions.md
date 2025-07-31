@@ -5,4 +5,4 @@
 - Docker (ms-azuretools.vscode-docker) + Container Tools (ms-azuretools.vscode-containers)
 - Live Server (ritwickdey.LiveServer)
 - Prettier (esbenp.prettier-vscode)
-## anki.md
+## [[anki]]
